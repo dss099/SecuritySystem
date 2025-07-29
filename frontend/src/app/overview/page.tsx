@@ -1,0 +1,8 @@
+export default function OverviewPage() {
+  return (
+    <div>
+      <h1 className="text-3xl font-bold">经营总览</h1>
+      <div className="mt-4 h-96 rounded-lg border-2 border-dashed border-muted-foreground/20 bg-muted/20" />
+    </div>
+  );
+}
